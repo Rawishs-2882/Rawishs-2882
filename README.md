@@ -26,9 +26,10 @@ I hold a Bachelor of Science in Software Engineering from Fatima Jinnah Women Un
 ## Tech Stack
 
 <div align="center">
-<img src="https://tech-orbit.wontory.dev/api?title=AI%2FML&tech=python,tensorflow,pytorch,opencv,java&size=420&duration=20" alt="AI/ML stack orbit" width="340" />
-<img src="https://tech-orbit.wontory.dev/api?title=FullStack&tech=react,fastapi,django,dotnet,javascript,html5,css3&size=420&duration=20" alt="Full stack orbit" width="340" />
-<img src="https://tech-orbit.wontory.dev/api?title=Cloud&tech=docker,kubernetes,microsoftazure,amazonaws,firebase,mysql,git&size=420&duration=20" alt="Cloud and tools orbit" width="340" />
+<img src="https://raw.githubusercontent.com/Rawishs-2882/Rawishs-2882/main/assets/languages-orbit.svg" alt="Languages orbit" width="260" />
+<img src="https://raw.githubusercontent.com/Rawishs-2882/Rawishs-2882/main/assets/aiml-orbit.svg" alt="AI/ML stack orbit" width="260" />
+<img src="https://raw.githubusercontent.com/Rawishs-2882/Rawishs-2882/main/assets/fullstack-orbit.svg" alt="Full stack orbit" width="260" />
+<img src="https://raw.githubusercontent.com/Rawishs-2882/Rawishs-2882/main/assets/cloud-orbit.svg" alt="Cloud and tools orbit" width="260" />
 </div>
 
 **Languages:** Python, Java, JavaScript, C++, C#, Object Oriented Programming
