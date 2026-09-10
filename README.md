@@ -26,7 +26,9 @@ I hold a Bachelor of Science in Software Engineering from Fatima Jinnah Women Un
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,java,react,django,dotnet,tensorflow,pytorch,opencv,docker,kubernetes,azure,aws,firebase,mysql,git,github,html,css,bootstrap" />
+<img src="https://tech-stack.wontory.dev/api/orbit?text=AI%2FML&slugs=python,tensorflow,pytorch,opencv,java" alt="AI/ML stack orbit" width="360" />
+<img src="https://tech-stack.wontory.dev/api/orbit?text=FullStack&slugs=react,fastapi,django,dotnet,javascript,html5,css3" alt="Full stack orbit" width="360" />
+<img src="https://tech-stack.wontory.dev/api/orbit?text=Cloud&slugs=docker,kubernetes,microsoftazure,amazonaws,firebase,mysql,git" alt="Cloud and tools orbit" width="360" />
 </div>
 
 **Languages:** Python, Java, JavaScript, C++, C#, Object Oriented Programming
